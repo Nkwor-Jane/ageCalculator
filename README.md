@@ -26,7 +26,7 @@ This project is part of the Codevixens 10 Days of Frontend Challenge (Day 1). Th
 
 ## How it Works
 
-1. **Input Fields:**Enter the birthdate you wish to calculate (day, month and years).
+1. **Input Fields:** Enter the birthdate you wish to calculate (day, month and years).
 2. **Submit Button:** Click submit button to calculate age differnce from date inputted to current date.
 3. **Display:** The age will be displayed.
 
